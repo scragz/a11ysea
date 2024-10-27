@@ -1,0 +1,22 @@
+{
+  "name": "personas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "browserslist": "^4.24.2",
+    "nunjucks": "^3.2.4",
+    "sass": "^1.79.4"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "lightningcss": "^1.27.0"
+  }
+}
