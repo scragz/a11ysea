@@ -1,7 +1,65 @@
+body > header, .page, body > footer {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  background: #000;
+  color: white;
+  padding: 8px;
+  z-index: 100;
+  transition: top 0.2s ease;
+}
+
+.skip-link:focus {
+  top: 0;
+}
+
+.main-nav {
+  .nav-list {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+    @media (max-width: 600px) {
+      flex-wrap: wrap;
+      align-items: center;
+
+      li {
+        max-width: calc(30% - 20px);
+      }
+    }
+  }
+}
+
+main {
+  padding-top: 0;
+}
+
 footer {
   img {
     height: 22px !important;
     margin-left: 3px;
     vertical-align: text-bottom;
   }
+}
+
+pre {
+  padding: 1rem;
+  border-radius: 6px;
+  font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+  overflow-x: auto;
+  line-height: 1.5;
+  margin: 1.5rem 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+
+  background-color: var(--pico-contrast-inverse);
+  color: var(--pico-constrast);
+  border: 1px solid var(--pico-border);
 }

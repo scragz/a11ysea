@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-img": "^5.0.0",
     "browserslist": "^4.24.2",
     "nunjucks": "^3.2.4",
     "sass": "^1.79.4"

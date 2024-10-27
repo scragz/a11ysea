@@ -15,7 +15,7 @@ These personas are crafted to help shift that perspective. By using them to guid
 
 Explore these profiles as a reminder of the real diversity in how people interact with technology. They’re here to help you think beyond assumptions, to prioritize accessibility, and ultimately, to create products that serve everyone.
 
-### Engage Directly with Custom GPTs for Accessibility Insights
+### Engage with Custom GPTs for Insights
 
 Each persona has its own custom GPT, allowing you to interact directly with them as if they were using your product. These tailored conversations offer firsthand insights into accessibility challenges and highlight the real impact of inclusive design choices, helping you create a product that truly supports all users.
 
