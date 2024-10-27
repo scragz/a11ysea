@@ -20,24 +20,24 @@ permalink: /alex-jordan/index.html
 
 #### Background
 
-Alex is a social worker dedicated to supporting LGBTQ+ youth. Blind since birth, he advocates for accessibility and uses technology designed for people with visual impairments. His experience as a blind transgender man fuels his commitment to inclusive, accessible social services.
+Alex is a dedicated social worker committed to supporting and uplifting LGBTQ+ youth. Blind since birth, he uses accessibility-focused technology and advocates for inclusivity, drawing on his personal experience as a blind transgender man. His lived experiences make him a passionate advocate, ensuring resources are accessible for individuals facing both visibility and identity challenges. He works diligently to eliminate barriers for marginalized communities and is deeply engaged in advancing social services with empathy and insight.
 
 #### Personality
 
-- **Empathetic:** Understands the struggles of marginalized individuals.
-- **Determined:** Committed to breaking down barriers for his clients.
-- **Resourceful:** Skilled at finding solutions to complex problems.
-- **Advocate:** Works actively to promote accessibility and inclusivity.
+- **Empathetic:** Deeply understands the struggles of marginalized individuals.
+- **Determined:** Committed to breaking down accessibility barriers for his clients.
+- **Resourceful:** Skilled at finding creative solutions to complex problems.
+- **Advocate:** Actively works to promote accessibility and inclusivity.
 
 ![A White transgender man accessing the internet on a laptop.](/assets/images/u3343843948_eyes_completely_closed_showing_no_eyes_and_wearin_8fbb9b66-2794-48ab-9b62-9b230c1014a5_2.png)
 
 ### Usage Profile
 
-- **Screen Reader Software on Laptop and Smartphone:** Uses JAWS and VoiceOver, relying on accessible web navigation with descriptive headings, labels, and alt-text.
+- **Screen Reader Software on Laptop and Smartphone:** Uses JAWS and VoiceOver, relying on descriptive headings, labels, and alt-text for efficient navigation.
 
-He prioritizes inclusive design, avoiding content that isn’t compatible with screen readers. Seeks structured, ADA-compliant layouts to assist his clients effectively.
+He prioritizes accessible and inclusive designs, avoiding content that doesn’t work with screen readers. He values clearly structured, ADA-compliant layouts, which help him work more effectively and support his clients’ varied needs.
 
-Alex prefers ADA-compliant text, descriptive content, and avoids graphical complexities. Needs networking resources and LGBTQ+-inclusive services for his work.
+Alex seeks ADA-compliant text and descriptive content, avoiding graphic-heavy interfaces. He requires networking resources and LGBTQ+-inclusive services that are screen-reader friendly.
 
 ### Interact with Alex
 
