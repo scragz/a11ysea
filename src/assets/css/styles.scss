@@ -21,6 +21,10 @@ body > header, .page, body > footer {
   top: 0;
 }
 
+h1.page-title {
+  margin-top: 1rem;
+}
+
 .main-nav {
   .nav-list {
     display: flex;
